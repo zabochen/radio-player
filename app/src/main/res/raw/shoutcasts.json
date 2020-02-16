@@ -30,5 +30,9 @@
   {
     "name" : "BBC World Service",
     "stream" : "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"
+  },
+  {
+    "name" : "c8.radioboss.fm",
+    "stream" : "http://c8.radioboss.fm:8125/stream"
   }
 ]
